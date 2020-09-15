@@ -1,6 +1,6 @@
 #!/bin/bash
-#
-#
+# Chris Bannayan
+# Version 2.0
 # Set variables
 
 JsonContent="Content-Type: application/json"
@@ -174,4 +174,3 @@ sleep 2
 grid_start
 sleep 2
 start_ora
-#
