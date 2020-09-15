@@ -1,6 +1,6 @@
 #!/bin/bash
 # Chris Bannayan
-# Version 2.0
+# Version 3.0
 # Set variables
 
 JsonContent="Content-Type: application/json"
